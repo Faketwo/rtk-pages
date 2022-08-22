@@ -5,7 +5,7 @@ import useFirebase from "./hooks/useFirebase";
 import logo from "./logo.svg";
 
 function App() {
-  useFirebase();
+  // useFirebase();
 
   return (
     <div className="App">
