@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/rtk-pages/static/css/main.ae71d505.css",
-    "main.js": "/rtk-pages/static/js/main.08484841.js",
+    "main.css": "/rtk-pages/static/css/main.c33cb1fd.css",
+    "main.js": "/rtk-pages/static/js/main.6e89a5ba.js",
     "static/js/787.9c84a7d1.chunk.js": "/rtk-pages/static/js/787.9c84a7d1.chunk.js",
-    "static/media/logo.svg": "/rtk-pages/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
     "index.html": "/rtk-pages/index.html",
-    "main.ae71d505.css.map": "/rtk-pages/static/css/main.ae71d505.css.map",
-    "main.08484841.js.map": "/rtk-pages/static/js/main.08484841.js.map",
+    "main.c33cb1fd.css.map": "/rtk-pages/static/css/main.c33cb1fd.css.map",
+    "main.6e89a5ba.js.map": "/rtk-pages/static/js/main.6e89a5ba.js.map",
     "787.9c84a7d1.chunk.js.map": "/rtk-pages/static/js/787.9c84a7d1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae71d505.css",
-    "static/js/main.08484841.js"
+    "static/css/main.c33cb1fd.css",
+    "static/js/main.6e89a5ba.js"
   ]
 }
