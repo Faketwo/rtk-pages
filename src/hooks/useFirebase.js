@@ -16,14 +16,14 @@ export default function useFirebase() {
 
   const app = initializeApp(firebaseConfig);
   const db = getDatabase(app);
-  const dbRef = query(ref(db, 'rtk-pages'));
+  const dbRef = query(ref(db, 'root'));
 
   // 覆蓋式寫入
-  set(dbRef, {
-    username: 'jiaer',
-    email: 'jiaer@ckex',
-    profile_picture: 'jiaer.jpg',
-  });
+  // set(dbRef, {
+  //   username: 'jiaer',
+  //   email: 'jiaer@ckex',
+  //   profile_picture: 'jiaer.jpg',
+  // });
 
   // 讀取
   onValue(dbRef, (snapshot) => {
